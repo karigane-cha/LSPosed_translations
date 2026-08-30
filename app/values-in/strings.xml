@@ -40,7 +40,7 @@
     <string name="system_prop_incorrect_summary">Prop sistem salah</string>
     <string name="system_prop_incorrect"><![CDATA[Beberapa properti sistem yang diperlukan dihapus atau diubah.<br/>Modul terkadang tidak valid.]]></string>
     <string name="hyrt_unavailable_summary">Injeksi HyperOS Runtime gagal</string>
-    <string name="hyrt_unavailable">HyperOS Runtime terdeteksi, tetapi Zygisk Next API tidak tersedia. Modul native tidak akan dimuat ke dalam proses HyperOS Runtime.</string>
+    <string name="hyrt_unavailable">HyperOS Runtime terdeteksi, tetapi API Zygisk Next tidak tersedia. Modul native tidak akan dimuat ke dalam proses HyperOS Runtime.</string>
     <string name="need_update">Perlu pembaruan</string>
     <string name="info_manager_package_name">Nama Paket Manajer</string>
     <string name="info_system_version">Versi Sistem</string>
@@ -87,12 +87,12 @@
     <string name="warning_min_version_too_low">Modul ini dibuat untuk Xposed versi %1$d, tetapi karena perubahan yang tidak kompatibel pada versi %2$d, telah dinonaktifkan.</string>
     <string name="warning_deprecated_feature">Modul ini menggunakan fitur yang akan segera dihentikan. Hubungi pengembangnya atau pertimbangkan alternatif lain.</string>
     <string name="warning_installed_on_external_storage">Modul ini tidak dapat dimuat karena terpasang di kartu SD, harap pindahkan ke penyimpanan internal.</string>
-    <string name="module_uninstall">Hapus</string>
+    <string name="module_uninstall">Copot</string>
     <string name="module_settings">Setelan modul</string>
     <string name="view_in_repo">Lihat di repositori</string>
-    <string name="module_uninstall_message">Apakah Anda ingin menghapus modul ini?</string>
-    <string name="module_uninstalled">%1$s dihapus</string>
-    <string name="module_uninstall_failed">Gagal menghapus pemasangan</string>
+    <string name="module_uninstall_message">Apakah Anda ingin mencopot modul ini?</string>
+    <string name="module_uninstalled">%1$s dicopot</string>
+    <string name="module_uninstall_failed">Gagal mencopot pemasangan</string>
     <string name="module_install_failed">Gagal menambahkan modul</string>
     <string name="install_to_user">Pasang ke pengguna %s</string>
     <string name="expand">Perluas</string>
@@ -220,7 +220,7 @@
     <string name="color_brown">Coklat</string>
     <string name="color_blue_grey">Abu-abu kebiruan</string>
     <string name="safe_mode">Mode aman</string>
-    <string name="safe_mode_summary">LSPosed berada dalam mode aman</string>
+    <string name="safe_mode_summary">LSPosed berada di mode aman</string>
     <string name="safe_mode_summary2">Semua modul Xposed tidak tersedia hingga mulai ulang berikutnya. \nBeberapa modul menyebabkan kerusakan sistem. Silakan temukan dan nonaktifkan modul ini, lalu berikan masukan kepada pengembang modul tersebut.</string>
     <string name="disable_all_modules">Nonaktifkan semua modul</string>
     <string name="confirm_disable_all_modules">Konfirmasi?</string>
