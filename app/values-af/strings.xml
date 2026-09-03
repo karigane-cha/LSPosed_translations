@@ -178,4 +178,6 @@
     <string name="color_orange">Oranje</string>
     <string name="color_brown">Bruin</string>
     <string name="color_blue_grey">Blou grys</string>
+    <string name="developer_mode_title">Ontwikkelaarmodus</string>
+    <string name="developer_mode_summary">Laat veranderingsopdragte deur die CLI-nutsding toe</string>
 </resources>

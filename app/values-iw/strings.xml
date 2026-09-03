@@ -188,4 +188,6 @@
     <string name="color_orange">כתום</string>
     <string name="color_brown">חום</string>
     <string name="color_blue_grey">כחול אפור</string>
+    <string name="developer_mode_title">מצב מפתח</string>
+    <string name="developer_mode_summary">אפשר פקודות שינוי דרך כלי ה־CLI</string>
 </resources>

@@ -298,4 +298,6 @@
         <item quantity="other">%d 日前</item>
     </plurals>
   
+    <string name="developer_mode_title">開發者模式</string>
+    <string name="developer_mode_summary">允許透過 CLI 工具執行變更指令</string>
 </resources>

@@ -304,4 +304,6 @@
         <item quantity="other">%d hari yang lalu</item>
     </plurals>
 
+    <string name="developer_mode_title">Mode pengembang</string>
+    <string name="developer_mode_summary">Izinkan perintah perubahan melalui alat CLI</string>
 </resources>

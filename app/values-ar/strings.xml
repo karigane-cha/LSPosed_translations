@@ -261,4 +261,6 @@
     <string name="settings_enable_blur_summary">تفعيل تأثير التمويه لشريط الأعلى والأسفل</string>
     <string name="settings_floating_bottom_bar">شريط سفلي عائم</string>
     
+    <string name="developer_mode_title">وضع المطوّر</string>
+    <string name="developer_mode_summary">السماح بتنفيذ أوامر التغيير عبر أداة CLI</string>
 </resources>

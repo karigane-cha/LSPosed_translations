@@ -186,4 +186,6 @@
     <string name="color_orange">Oransje</string>
     <string name="color_brown">Brun</string>
     <string name="color_blue_grey">Blå grå</string>
+    <string name="developer_mode_title">Utviklermodus</string>
+    <string name="developer_mode_summary">Tillat endringskommandoer gjennom CLI-verktøyet</string>
 </resources>

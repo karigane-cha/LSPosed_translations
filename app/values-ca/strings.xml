@@ -187,4 +187,6 @@
     <string name="color_orange">taronja</string>
     <string name="color_brown">marró</string>
     <string name="color_blue_grey">Gris blau</string>
+    <string name="developer_mode_title">Mode de desenvolupador</string>
+    <string name="developer_mode_summary">Permet les ordres de modificació mitjançant l’eina CLI</string>
 </resources>

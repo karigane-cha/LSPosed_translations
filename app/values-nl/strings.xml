@@ -187,4 +187,6 @@
     <string name="color_orange">Oranje</string>
     <string name="color_brown">Bruin</string>
     <string name="color_blue_grey">Blauw grijs</string>
+    <string name="developer_mode_title">Ontwikkelaarsmodus</string>
+    <string name="developer_mode_summary">Wijzigingsopdrachten via het CLI-hulpprogramma toestaan</string>
 </resources>

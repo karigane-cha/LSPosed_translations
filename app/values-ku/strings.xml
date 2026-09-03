@@ -175,4 +175,6 @@
     <string name="color_orange">porteqalî</string>
     <string name="color_brown">qehweyî</string>
     <string name="color_blue_grey">Şîn gewr</string>
+    <string name="developer_mode_title">Moda pêşdebir</string>
+    <string name="developer_mode_summary">Destûr bide fermanên guhertinê bi amûra CLI</string>
 </resources>

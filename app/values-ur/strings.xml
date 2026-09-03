@@ -187,4 +187,6 @@
     <string name="color_orange">کینو</string>
     <string name="color_brown">براؤن</string>
     <string name="color_blue_grey">بلیو گرے</string>
+    <string name="developer_mode_title">ڈیولپر موڈ</string>
+    <string name="developer_mode_summary">CLI ٹول کے ذریعے تبدیلی کی کمانڈز کی اجازت دیں</string>
 </resources>

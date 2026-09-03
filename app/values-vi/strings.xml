@@ -299,4 +299,6 @@
         <item quantity="other">%d ngày trước</item>
     </plurals>
 
+    <string name="developer_mode_title">Chế độ nhà phát triển</string>
+    <string name="developer_mode_summary">Cho phép các lệnh thay đổi thông qua công cụ CLI</string>
 </resources>

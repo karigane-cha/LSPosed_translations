@@ -187,4 +187,6 @@
     <string name="color_orange">संतरा</string>
     <string name="color_brown">भूरा</string>
     <string name="color_blue_grey">नीला ग्रे</string>
+    <string name="developer_mode_title">डेवलपर मोड</string>
+    <string name="developer_mode_summary">CLI टूल के माध्यम से बदलाव करने वाले कमांड की अनुमति दें</string>
 </resources>

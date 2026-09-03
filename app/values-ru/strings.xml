@@ -320,4 +320,6 @@
         <item quantity="many">%d дней назад</item>
     </plurals>
 
+    <string name="developer_mode_title">Режим разработчика</string>
+    <string name="developer_mode_summary">Разрешить выполнение команд, вносящих изменения, через инструмент CLI</string>
 </resources>

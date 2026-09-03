@@ -189,4 +189,6 @@
     <string name="color_orange">Oranžová</string>
     <string name="color_brown">Hnědá</string>
     <string name="color_blue_grey">Modro-šedivá</string>
+    <string name="developer_mode_title">Vývojářský režim</string>
+    <string name="developer_mode_summary">Povolit příkazy provádějící změny prostřednictvím nástroje CLI</string>
 </resources>

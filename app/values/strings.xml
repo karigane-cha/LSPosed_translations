@@ -235,6 +235,8 @@
     <string name="disable_success_title">Success</string>
     <string name="hook_debug_title">Hook Debug</string>
     <string name="debugging_title">Debugging</string>
+    <string name="developer_mode_title">Developer mode</string>
+    <string name="developer_mode_summary">Allow mutation commands through the CLI tool</string>
     <string name="hook_debug_summary">Allow dumping of hook debugging information of hooked processes, which may have a performance impact</string>
     <string name="dump_hook_debug_title">Dump hook debug info</string>
     <string name="dump_hook_debug_summary">Dump hook debug info to /data/adb/lspd/log</string>

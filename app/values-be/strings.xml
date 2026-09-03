@@ -309,4 +309,6 @@
         <item quantity="other">%d дзён таму</item>
     </plurals>
 
+    <string name="developer_mode_title">Рэжым распрацоўшчыка</string>
+    <string name="developer_mode_summary">Дазволіць выконваць каманды змяненняў праз інструмент CLI</string>
 </resources>

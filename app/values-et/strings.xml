@@ -187,4 +187,6 @@
     <string name="color_orange">Oranž</string>
     <string name="color_brown">Pruun</string>
     <string name="color_blue_grey">Sinine hall</string>
+    <string name="developer_mode_title">Arendajarežiim</string>
+    <string name="developer_mode_summary">Luba CLI-tööriista kaudu muutmiskäske</string>
 </resources>

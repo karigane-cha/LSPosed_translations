@@ -189,4 +189,6 @@
     <string name="color_orange">Oranžinė</string>
     <string name="color_brown">Ruda</string>
     <string name="color_blue_grey">Mėlyna pilka</string>
+    <string name="developer_mode_title">Kūrėjo režimas</string>
+    <string name="developer_mode_summary">Leisti keitimo komandas per CLI įrankį</string>
 </resources>

@@ -187,4 +187,6 @@
     <string name="color_orange">Πορτοκαλί</string>
     <string name="color_brown">Καφέ</string>
     <string name="color_blue_grey">Μπλε γκρι</string>
+    <string name="developer_mode_title">Λειτουργία προγραμματιστή</string>
+    <string name="developer_mode_summary">Να επιτρέπονται εντολές τροποποίησης μέσω του εργαλείου CLI</string>
 </resources>

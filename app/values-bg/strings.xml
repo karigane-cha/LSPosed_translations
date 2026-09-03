@@ -185,4 +185,6 @@
     <string name="color_orange">Orange</string>
     <string name="color_brown">Кафяв</string>
     <string name="color_blue_grey">Синьо сиво</string>
+    <string name="developer_mode_title">Режим за разработчици</string>
+    <string name="developer_mode_summary">Позволява изпълнението на команди за промяна чрез CLI инструмента</string>
 </resources>
